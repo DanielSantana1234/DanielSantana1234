@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielSantana1234
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning game development
+- 👀 I’m interested in game design
+- 🌱 I’m currently learning game & web development
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me danielsantana01189@gmail.com
 
